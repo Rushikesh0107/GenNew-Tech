@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.main-container{
+    overflow-x: hidden;
+}
+
 .hero-wrap{
     background-color: #002E33;
     height: 100vh;
